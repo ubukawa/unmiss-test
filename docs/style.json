@@ -4,7 +4,7 @@
  "sources":{
      "unmiss": {
             "type": "raster",
-            "tiles": ["https://pro-ags1.dfs.un.org/arcgis/rest/services/UNMISS_Custom_Basemap_CVW/MapServer/tile/{z}/{y}/{x}.png"],
+            "tiles": ["https://pro-ags1.dfs.un.org/arcgis/rest/services/UNMISS_Custom_Basemap_CVW/MapServer/tile/{z}/{y}/{x}"],
             "attribution": "UNMISS Basemap (for testing)",
             "tileSize": 256
           }
